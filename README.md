@@ -1,4 +1,4 @@
-# album_shuffled_playlists
+# Album Shuffled Playlists
 
 VW, Audi and Skoda cars can play music from an SD card or USB drive.
 
